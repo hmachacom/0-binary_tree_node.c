@@ -4,7 +4,6 @@
  * binary_tree_preorder - Pre-order traversal
  *@tree: parent node
  *@func: function print
- * Return: New node
  */
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
 {
