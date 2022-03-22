@@ -111,4 +111,4 @@ In computer science, a binary tree is a data structure in which each node can ha
 
 ------------
 
-![](https://imgur.com/a/T7rmMBG)
+![](https://i.imgur.com/WaghKCr.jpg)
