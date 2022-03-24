@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_uncle - ::::::::::::
+ * binary_tree_uncle - Escribe una función que encuentre el tío de un nodo
  * @node: raiz
  * Return: pointer or null
  */
